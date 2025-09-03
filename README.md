@@ -1,16 +1,15 @@
-## Hi there 👋
+Open-source contributor • Blockchain • Decentralization • IPFS • Web3
 
-<!--
-**Linhead/Linhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Building censorship-resistant communication, decentralized infra, validators, and Web3 automation
+🌍 Contributor to projects that keep the Web open and unstoppable
 
-Here are some ideas to get you started:
+🚀 Project Highlights
+🔹 ADAMANT — Blockchain Messenger
+Secure, censorship-resistant messenger powered by its own blockchain.
+💬 encrypted chats • 🔒 blockchain-backed security • 🌍 decentralized infra • 📱 cross-platform apps
+⚡ fair dPoS consensus & forging • 📡 decentralized networking • 🛠️ REST API • 🔑 validator keys
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm here:
+
+📢 Telegram: @danderluf
+✉️ Email: p3general@gmail.com
